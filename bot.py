@@ -66,7 +66,7 @@ class Bot(Client):
                     ),
                     reply_markup=InlineKeyboardMarkup(
                         [[
-                            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/codeflix_bots")
+                            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/oneforall_support")
                         ]]
                     )
                 )
