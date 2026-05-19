@@ -240,7 +240,7 @@ async def auto_rename_files(client, message: Message):
 
         metadata_path = os.path.join(
             "metadata",
-            new_filename
+            f"meta_{new_filename}"
         )
 
         # -------- DOWNLOAD -------- #
